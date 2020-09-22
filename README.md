@@ -6,4 +6,4 @@ Focus Webpage is a vanilla JavaScript landing page where you vna change the name
 
 ### Link to Project
 
-[Checkout the landing page here](https://alalumiere.github.io/JS_Focus_Webpage/)
+[Checkout the landing page here!](https://alalumiere.github.io/JS_Focus_Webpage/)

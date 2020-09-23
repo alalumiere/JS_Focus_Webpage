@@ -29,10 +29,6 @@
   opacity: .8;
 }
 
-/* .focus__edit {
-  border: white 1px solid;
-} */
-
 @media(max-width: 700px) {
   .time {
     font-size: 85px;

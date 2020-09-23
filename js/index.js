@@ -77,10 +77,10 @@ function setName(e) {
 
 //Get Focus
 function getFocus() {
-    if (localStorage.getItem('getFocus') === null) {
+    if (localStorage.getItem('focus') === null) {
       focusEdit.textContent = '{Enter Your Focus For Today}';
     } else {
-        focusEdit.textContent = localStorage.getItem('getFocus');
+        focusEdit.textContent = localStorage.getItem('focus');
     }
   }
 

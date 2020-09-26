@@ -41,15 +41,15 @@ function setBackgroundGreeting(){
 
   if(hour < 12) {
     //Morning
-    document.body.style.backgroundImage = "url('../img/morning.jpg')"
+    document.body.style.backgroundImage = "url('/img/morning.jpg')"
     greetingTime.textContent = 'Good Morning,';
   } else if(hour < 18) {
     //Afternoon
-    document.body.style.backgroundImage = "url('../img/afternoon.jpg')"
+    document.body.style.backgroundImage = "url('/img/afternoon.jpg')"
     greetingTime.textContent = 'Good Afternoon,';
   } else {
     //Evening
-    document.body.style.backgroundImage = "url('../img/night.jpg')"
+    document.body.style.backgroundImage = "url('/img/night.jpg')"
     greetingTime.textContent = 'Good Evening,';
   }
 }
